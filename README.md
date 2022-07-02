@@ -172,6 +172,17 @@ The following pictures were used for testing:
 
 
 # Results
+![](pics/wc3_all/BTN3M1.png)
+![](pics/wc3_all/BTN3M2.png)
+![](pics/wc3_all/BTN3M3.png)
+![](pics/wc3_all/BTNAbomination.png)
+![](pics/wc3_all/BTNAcolyte.png)
+![](pics/wc3_all/BTNAcorn.png)
+![](pics/wc3_all/BTNAdvancedCreatureAttack.png)
+![](pics/wc3_all/BTNAdvancedCreatureCarapace.png)
+![](pics/wc3_all/BTNAdvancedDeathTower.png)
+![](pics/wc3_all/BTNAdvancedEnergyTower.png)
+
 TODO
 
 
