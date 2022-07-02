@@ -5,6 +5,11 @@ turn any picture into Warcraft III icon.
 
 
 
+# Table of contents
+[Data](#Data)
+
+
+
 # Data
 Most of the icons to train on are taken from
 [here](https://www.moddb.com/games/warcraft-iii-frozen-throne/addons/wow-icons-for-war3).
@@ -664,7 +669,10 @@ Pytorch, torchvision, pillow.
 
 
 # Conclusion
-TODO
+The target of creating nice wc3 icons from photos is not achieved.
+Sometimes the result kinda looks somewhat good, but this is probably
+due to the fact that ruining image a bit sometimes makes it look
+more like wc3 icon.
 
 
 
