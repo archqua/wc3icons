@@ -26,6 +26,7 @@ Non-wc3 pictures are taken from several datasets:
 7. [food](https://www.kaggle.com/datasets/trolukovich/food5k-image-dataset?select=training)
 8. [animals](https://www.kaggle.com/datasets/virtualdvid/oregon-wildlife)
 9. [faces](https://drive.google.com/file/d/1KWPc4Pa7u2TWekUvNu9rTSO0U2eOlZA9/view?usp=sharing)
+    (small version of [this](https://github.com/NVlabs/ffhq-dataset))
 
 Datasets were only used partially, there are
 243 photos of fruits and vegetables, 5050 of dogs and cats,
@@ -70,6 +71,9 @@ and can be found in [dense\_pix.py](dense\_pix.py).
 
 Regarding density of dense architecture, in simple train loop (see below)
 it equals 3, in cycle and harmonic train loops it's 2.
+
+On last two layers upconvolutions are replaced with bilinear upsampling with
+simple convolutions to mitigate regular grid-like artifacts.
 
 
 
