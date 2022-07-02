@@ -1,6 +1,7 @@
 #!/bin/env python
 
 if __name__ == "__main__":
+    prefix = "illustration"
     for train_loop in ["simple", "cycle", "harmonic"]:
         print(f"\n\n## {train_loop.capitalize()}")
         for model in ["pix", "dense"]:
@@ -14,10 +15,10 @@ if __name__ == "__main__":
                     print("<table><tbody>")
                     print("<tr>")
                     for file in ["mike_wazowski", "horny", "busya", "ll", "triplechad"]:
-                        print('<td><img src="' + '/'.join((train_loop, model, pretrain, mode, file, ".png")) + '" width="128px"/></td>')
+                        print('<td><img src="' + '/'.join((prefix, train_loop, model, pretrain, mode, file, ".png")) + '" width="128px"/></td>')
                     print("</tr><tr>")
                     for file in ["sigma", "ginger", "ka_52", "pig", "floppa"]:
-                        print('<td><img src="' + '/'.join((train_loop, model, pretrain, mode, file, ".png")) + '" width="128px"/></td>')
+                        print('<td><img src="' + '/'.join((prefix, train_loop, model, pretrain, mode, file, ".png")) + '" width="128px"/></td>')
                     print("</tr>")
                     print("</tbody></table>")
 
