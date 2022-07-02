@@ -63,7 +63,9 @@ Which is 26973 photos overall.
 # Preprocessing
 Each non-icon was cropped, resized to $56 \times 56$ and shadowed at the edges.
 Each icon was cropped to $56 \times 56$ to remove frame.
-TODO links to archives.
+$64 \times 64$ datasets can be found
+[here](https://drive.google.com/drive/folders/1Ndtzlsm8XtfXEW9EZAnAZvAsd8eGBwN9?usp=sharing),
+the rest of preprocessing is done via [util.py](util.py).
 
 
 
@@ -103,6 +105,12 @@ simple convolutions to mitigate regular grid-like artifacts.
 # Training
 There are three train loops, all can be found in [train\_util.py](train\_util.py).
 Loss functions were chosen to be MSE, rather than BCE.
+
+If you wish to know much entropy was generated during training
+(number of epochs, training time) or how to use
+[util.py](util.py) and [train\_util.py](train\_util.py)
+to train models, you can check out
+[notebooks](https://drive.google.com/drive/folders/11y8_z9tHXHPIRienfLTCfpnVQB3NP8xs?usp=sharing).
 
 
 ## Simple train loop
@@ -680,6 +688,9 @@ unzip path/to/weights.zip
 ./main.py -h
 ```
 
+You can download weights
+[here](https://drive.google.com/file/d/13JEiokUl_T-g1T5piqjnkCJWNZUHZbeV/view?usp=sharing).
+
 
 ## Dependencies
 Pytorch, torchvision, pillow.
@@ -691,6 +702,8 @@ The target of creating nice wc3 icons from photos is not achieved.
 Sometimes the result kinda looks somewhat good, but this is probably
 due to the fact that ruining image a bit sometimes makes it look
 more like wc3 icon.
+
+Sometimes results look at least funny though.
 
 
 
