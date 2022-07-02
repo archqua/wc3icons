@@ -110,7 +110,9 @@ When transformator loss exceeded $0.8$, it was given extra iterations
 # Test
 The following pictures were used for testing:
 
-<img src="illustration/test_orig/busya.jpg)" alt="busya" width="400px"/>
+<img src="illustration/test_orig/busya.jpg)" width="400px"/>
+
+![](illustration/test\_orig/busya.jpg)
 
 [link](https://i.pinimg.com/736x/90/0a/b7/900ab76cf0c3b2fe8683e0e2039beb00.jpg)
 
