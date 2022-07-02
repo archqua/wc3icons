@@ -58,13 +58,14 @@ do
           exit 1
         fi
 
-        for file in $(ls "$orig_dir")
+        for file in $(ls "$orig_dir"/*png)
         do
           # mkdir -p illustration/"$train_loop"/"$model"/"$pretrain"/"$mode"
-          in_file="$orig_dir"/"$file"
-          out_file=illustration/"$train_loop"/"$model"/"$pretrain"/"$mode"/"$file"
-          echo ./main.py "$loop_token" "$model_token" "$pretrain_token" -D "$dropout_token" -i "$in_file" -o "$out_file"
-          # ./main.py "$loop_token" "$model_token" "$pretrain_token" -D "$dropout_token" -i "$in_file" -o "$out_file"
+          # in_file="$orig_dir"/"$file"
+          in_file="$file"
+          out_file=illustration/"$train_loop"/"$model"/"$pretrain"/"$mode"/$(basename "$file")
+          # echo ./main.py "$loop_token" "$model_token" "$pretrain_token" -D "$dropout_token" -i "$in_file" -o "$out_file"
+          ./main.py $loop_token $model_token $pretrain_token -D $dropout_token -i $in_file -o $out_file
         done
       done
     done

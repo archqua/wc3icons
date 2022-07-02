@@ -14,22 +14,23 @@ parser = argparse.ArgumentParser(
     epilog="if no train loop is specified, image is not modified",
 )
 parser.add_argument("-i", "--inp", help="input file", type=str)
-parser.add_argument("-o", "--outp", help="output file", type=str)
+parser.add_argument("-o", "--outp", help="output file (.png)", type=str)
 parser.add_argument("-d", "--dense", help="use dense architecture", action="store_true")
-parser.add_argument("-D", "--dropout", help="dropout", type=float, default=0.0)
+parser.add_argument("-D", "--dropout", help="dropout probability", type=float, default=0.0)
 parser.add_argument("-p", "--pretrained", help="use weights from training with simple pretrain", action="store_true")
 loop_group = parser.add_mutually_exclusive_group()
 loop_group.add_argument("-s", "--simple", help="simple train loop", action="store_true")
 loop_group.add_argument("-c", "--cycle", help="cycle train loop", action="store_true")
 loop_group.add_argument("-l", "--harmonic", help="harmonic train loop", action="store_true")
 parser.add_argument("-e", "--extra_crop", help="extra crop factor", type=float, default=1.0)
-parser.add_argument("--frame", help="frame", type=str, default="frame.png")
+parser.add_argument("--frame", help="frame file", type=str, default="frame.png")
 
 
 def crop_edges(img):
     size = img.size
     if size[0] == size[1]:
-        img = img.resize(final_size)
+        # img = img.resize(final_size)
+        pass
     elif size[0] > size[1]:
         diff = size[0] - size[1]
         left = diff//2

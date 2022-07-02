@@ -176,6 +176,17 @@ The following pictures were used for testing:
 
 
 # Results
+<img src="illustration/harmonic/dense/pretrain/eval/mike_wazowski.png"/>
+<img src="illustration/harmonic/dense/pretrain/eval/horny.png"/>
+<img src="illustration/harmonic/dense/pretrain/eval/busya.png"/>
+<img src="illustration/harmonic/dense/pretrain/eval/ll.png"/>
+<img src="illustration/harmonic/dense/pretrain/eval/triplechad.png"/>
+<img src="illustration/harmonic/dense/pretrain/eval/sigma.png"/>
+<img src="illustration/harmonic/dense/pretrain/eval/ginger.png"/>
+<img src="illustration/harmonic/dense/pretrain/eval/ka_52.png"/>
+<img src="illustration/harmonic/dense/pretrain/eval/pig.png"/>
+<img src="illustration/harmonic/dense/pretrain/eval/floppa.png"/>
+
 TODO
 
 
