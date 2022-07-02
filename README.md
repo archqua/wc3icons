@@ -198,7 +198,9 @@ This is for comparisson.
 ## Simple
 
 ### Pix
+
 #### Pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -215,6 +217,7 @@ This is for comparisson.
 <td><img src="illustration/simple/pix/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -231,7 +234,9 @@ This is for comparisson.
 <td><img src="illustration/simple/pix/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 #### No pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -248,6 +253,7 @@ This is for comparisson.
 <td><img src="illustration/simple/pix/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -266,7 +272,9 @@ This is for comparisson.
 </tbody></table>
 
 ### Dense
+
 #### Pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -283,6 +291,7 @@ This is for comparisson.
 <td><img src="illustration/simple/dense/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -299,7 +308,9 @@ This is for comparisson.
 <td><img src="illustration/simple/dense/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 #### No pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -316,6 +327,7 @@ This is for comparisson.
 <td><img src="illustration/simple/dense/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -337,7 +349,9 @@ This is for comparisson.
 ## Cycle
 
 ### Pix
+
 #### Pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -354,6 +368,7 @@ This is for comparisson.
 <td><img src="illustration/cycle/pix/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -370,7 +385,9 @@ This is for comparisson.
 <td><img src="illustration/cycle/pix/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 #### No pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -387,6 +404,7 @@ This is for comparisson.
 <td><img src="illustration/cycle/pix/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -405,7 +423,9 @@ This is for comparisson.
 </tbody></table>
 
 ### Dense
+
 #### Pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -422,6 +442,7 @@ This is for comparisson.
 <td><img src="illustration/cycle/dense/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -438,7 +459,9 @@ This is for comparisson.
 <td><img src="illustration/cycle/dense/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 #### No pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -455,6 +478,7 @@ This is for comparisson.
 <td><img src="illustration/cycle/dense/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -476,7 +500,9 @@ This is for comparisson.
 ## Harmonic
 
 ### Pix
+
 #### Pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -493,6 +519,7 @@ This is for comparisson.
 <td><img src="illustration/harmonic/pix/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -509,7 +536,9 @@ This is for comparisson.
 <td><img src="illustration/harmonic/pix/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 #### No pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -526,6 +555,7 @@ This is for comparisson.
 <td><img src="illustration/harmonic/pix/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -544,7 +574,9 @@ This is for comparisson.
 </tbody></table>
 
 ### Dense
+
 #### Pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -561,6 +593,7 @@ This is for comparisson.
 <td><img src="illustration/harmonic/dense/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -577,7 +610,9 @@ This is for comparisson.
 <td><img src="illustration/harmonic/dense/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 #### No pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -594,6 +629,7 @@ This is for comparisson.
 <td><img src="illustration/harmonic/dense/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>

@@ -8,10 +8,10 @@ if __name__ == "__main__":
             print(f"\n### {model.capitalize()}")
             for pret, pretrain in enumerate(["pretrain", "nopretrain"]):
                 header = "Pretrain" if pret == 0 else "No pretrain"
-                print(f"#### {header}")
+                print(f"\n#### {header}")
                 for m, mode in enumerate(["train", "eval"]):
                     dropout = "50% dropout" if m == 0 else "No dropout"
-                    print(f"##### {dropout}")
+                    print(f"\n##### {dropout}")
                     print("<table><tbody>")
                     print("<tr>")
                     for file in ["mike_wazowski", "horny", "busya", "ll", "triplechad"]:

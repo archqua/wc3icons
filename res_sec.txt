@@ -3,7 +3,9 @@
 ## Simple
 
 ### Pix
+
 #### Pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -20,6 +22,7 @@
 <td><img src="illustration/simple/pix/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -36,7 +39,9 @@
 <td><img src="illustration/simple/pix/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 #### No pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -53,6 +58,7 @@
 <td><img src="illustration/simple/pix/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -71,7 +77,9 @@
 </tbody></table>
 
 ### Dense
+
 #### Pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -88,6 +96,7 @@
 <td><img src="illustration/simple/dense/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -104,7 +113,9 @@
 <td><img src="illustration/simple/dense/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 #### No pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -121,6 +132,7 @@
 <td><img src="illustration/simple/dense/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -142,7 +154,9 @@
 ## Cycle
 
 ### Pix
+
 #### Pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -159,6 +173,7 @@
 <td><img src="illustration/cycle/pix/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -175,7 +190,9 @@
 <td><img src="illustration/cycle/pix/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 #### No pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -192,6 +209,7 @@
 <td><img src="illustration/cycle/pix/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -210,7 +228,9 @@
 </tbody></table>
 
 ### Dense
+
 #### Pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -227,6 +247,7 @@
 <td><img src="illustration/cycle/dense/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -243,7 +264,9 @@
 <td><img src="illustration/cycle/dense/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 #### No pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -260,6 +283,7 @@
 <td><img src="illustration/cycle/dense/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -281,7 +305,9 @@
 ## Harmonic
 
 ### Pix
+
 #### Pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -298,6 +324,7 @@
 <td><img src="illustration/harmonic/pix/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -314,7 +341,9 @@
 <td><img src="illustration/harmonic/pix/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 #### No pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -331,6 +360,7 @@
 <td><img src="illustration/harmonic/pix/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -349,7 +379,9 @@
 </tbody></table>
 
 ### Dense
+
 #### Pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -366,6 +398,7 @@
 <td><img src="illustration/harmonic/dense/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
@@ -382,7 +415,9 @@
 <td><img src="illustration/harmonic/dense/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 #### No pretrain
+
 ##### 50% dropout
 <table><tbody>
 <tr>
@@ -399,6 +434,7 @@
 <td><img src="illustration/harmonic/dense/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
+
 ##### No dropout
 <table><tbody>
 <tr>
