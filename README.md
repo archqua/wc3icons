@@ -6,25 +6,26 @@ turn any picture into Warcraft III icon.
 
 
 # Data
-Most of the icons to train on are taken from here(TODO insert link).
+Most of the icons to train on are taken from
+[here](https://www.moddb.com/games/warcraft-iii-frozen-throne/addons/wow-icons-for-war3).
 These are not actual wc3 icons -- these are adjusted World of Warcraft icons.
-The rest of icons are actual wc3 icons taken from here(TODO insert link).
+The rest of icons are actual wc3 icons taken from
+[here](https://wowpedia.fandom.com/wiki/Wowpedia:Warcraft_III_icons/Icon_list).
 Only icons for buttons were eventually used, which turned out to be
-unnecessary, but it doesn't seem to be huge loss anyway.
+unnecessary, but it doesn't seem to be a huge loss anyway.
 
 There are 22529 of adjusted WoW icons and 1007 of wc3 icons, 23536 overall.
 
 Non-wc3 pictures are taken from several datasets(TODO insert links):
-1. fruits
-2. dogs and cats
-3. monkeys
-4. fashion
-5. buildings
-6. weather
-7. food
-8. animals
-<!-- 9. birds -->
-9. faces
+1. [fruits](https://www.kaggle.com/datasets/moltean/fruits)
+2. [dogs and cats](https://www.kaggle.com/competitions/dogs-vs-cats/data?select=train.zip)
+3. [monkeys](https://www.kaggle.com/datasets/slothkong/10-monkey-species?select=training)
+4. [fashion](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
+5. [buildings](https://www.kaggle.com/datasets/dumitrux/architectural-styles-dataset?select=architectural-styles-dataset)
+6. [weather](https://data.mendeley.com/datasets/4drtyfjtfy/1)
+7. [food](https://www.kaggle.com/datasets/trolukovich/food5k-image-dataset?select=training)
+8. [animals](https://www.kaggle.com/datasets/virtualdvid/oregon-wildlife)
+9. [faces](https://drive.google.com/file/d/1KWPc4Pa7u2TWekUvNu9rTSO0U2eOlZA9/view?usp=sharing)
 
 Datasets were only used partially, there are
 243 photos of fruits and vegetables, 5050 of dogs and cats,
@@ -37,13 +38,16 @@ Which is 26973 photos overall.
 
 # Preprocessing
 Each non-icon was cropped, resized to $56 \times 56$ and shadowed at the edges.
+Each icon was cropped to $56 \times 56$ to remove frame.
 TODO links to archives.
 
 
 
 # Models
-Two models were tested. One is pix2pix-like(TODO insert link) and can be found
-in pix.py, the other one mixes pix2pix with dense-net(TODO insert link)
+Two models were tested. One is
+[pix2pix-like](https://arxiv.org/abs/1611.07004) and can be found
+in `pix.py`, the other one mixes pix2pix with
+[dense-net](https://arxiv.org/abs/1608.06993v5)
 and can be found in dense\_pix.py.
 
 
