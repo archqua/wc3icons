@@ -7,12 +7,17 @@ turn any picture into Warcraft III icon.
 
 # Table of contents
 [Data](#Data)
+
 [Preprocessing](#Preprocessing)
+
 [Models](#Models)
+
 [Training](#Training)
+
 [Test](#Test)
+
 [Results](#Results)
-- [Identity](##Identity)
+- [Identity](#Identity)
 
 
 
