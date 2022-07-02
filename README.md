@@ -62,7 +62,7 @@ and can be found in [dense\_pix.py](dense\_pix.py).
 <figure>
 
 <figcaption align="center">
-<b>roughly dense architecture (density$=4$)</b>
+<b>roughly dense architecture (density=4)</b>
 </figcaption>
 <img src="dense_architecture.png" title="dense architecture"/>
 
