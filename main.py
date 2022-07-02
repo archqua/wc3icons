@@ -9,7 +9,10 @@ import argparse
 from PIL import Image
 
 
-parser = argparse.ArgumentParser()
+parser = argparse.ArgumentParser(
+    description="turn everything into wc3 icon",
+    epilog="if no train loop is specified, image is not modified",
+)
 parser.add_argument("-i", "--inp", help="input file", type=str)
 parser.add_argument("-o", "--outp", help="output file", type=str)
 parser.add_argument("-d", "--dense", help="use dense architecture", action="store_true")
@@ -62,7 +65,7 @@ def get_model(which, dense, dropout, pretrained):
         model = DensePix.Transformator(width=16, density = 3 if which[0] else 2, random_dim=128, dropout=dropout)
     else:
         fname = "pix_"
-        model = Pix.Transformator(width=16, latent_dim=128, random=16, dropout=dropout)
+        model = Pix.Transformator(width=16, latent_dim=128, random_dim=16, dropout=dropout)
     if (which[0]):
         fname += "simple"
     elif (which[1]):
@@ -70,7 +73,7 @@ def get_model(which, dense, dropout, pretrained):
     elif (which[2]):
         fname += "harmonic"
     else:
-        pass # TODO error
+        return torch.nn.Identity()
     if pretrained:
         fname += "_pretrained"
     fname += ".pt"

@@ -50,6 +50,10 @@ in [pix.py](pix.py), the other one mixes pix2pix with
 [dense-net](https://arxiv.org/abs/1608.06993v5)
 and can be found in [dense\_pix.py](dense\_pix.py).
 
+<img src="pix_architecture.png" title="pix architecture"/>
+
+<img src="dense_architecture.png" title="dense architecture"/>
+
 
 
 # Training
@@ -88,6 +92,9 @@ The implementation of harmonic loss can be found in [harmonic\_loss.py](harmonic
 ## Pretraining
 In some cases, in order to initialize weights, transformators were for 1 epoch
 (pre)trained in autoencoder manner with L1 loss function.
+Pretraining of transformators was done on the opposites of their actual domains
+(photo-to-icon transformator was pretrained in icon-to-icon mode)
+to prevent transformators from preserving images to much.
 
 
 ## Parameters
@@ -162,7 +169,7 @@ unzip path/to/weights.zip
 
 
 ## Dependencies
-Pytorch, torchvision, Pillow.
+Pytorch, torchvision, pillow.
 
 
 
