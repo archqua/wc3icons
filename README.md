@@ -146,6 +146,32 @@ The following pictures were used for testing:
 <img src="illustration/test_orig/triplechad.jpg" width="400px"/>
 
 
+
 # Results
 TODO
+
+
+
+# Usage
+```
+git clone https://github.com/archqua/wc3icons.git
+cd wc3icons
+unzip path/to/weights.zip
+./main.py -h
+```
+
+
+## Dependencies
+Pytorch, torchvision, Pillow.
+
+
+
+# Conclusion
+TODO
+
+
+
+
+
+
 
