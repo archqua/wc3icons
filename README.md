@@ -52,21 +52,24 @@ and can be found in [dense\_pix.py](dense\_pix.py).
 
 <figure>
 
-<img src="pix_architecture.png" title="pix architecture"/>
 <figcaption align="center">
-pix arghitecture
+<b>roughly pix architecture</b>
 </figcaption>
+<img src="pix_architecture.png" title="pix architecture"/>
 
 </figure>
 
 <figure>
 
-<img src="dense_architecture.png" title="dense architecture"/>
 <figcaption align="center">
-dense arghitecture
+<b>roughly dense architecture</b>
 </figcaption>
+<img src="dense_architecture.png" title="dense architecture"/>
 
 </figure>
+
+Regarding density of dense architecture, in simple train loop (see below)
+it equals 3, in cycle and harmonic train loops it's 2.
 
 
 
