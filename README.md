@@ -48,12 +48,12 @@ Two models were tested. One is
 [pix2pix-like](https://arxiv.org/abs/1611.07004) and can be found
 in [pix.py](pix.py), the other one mixes pix2pix with
 [dense-net](https://arxiv.org/abs/1608.06993v5)
-and can be found in dense\_pix.py.
+and can be found in [dense\_pix.py](dense\_pix.py).
 
 
 
 # Training
-There are three train loops, all can be found in train\_util.py.
+There are three train loops, all can be found in [train\_util.py](train\_util.py).
 Loss functions were chosen to be MSE, rather than BCE.
 
 
@@ -83,7 +83,7 @@ The intention here is to preserve trained model from
 "willing" to preserve pictures unchanged.
 To calculate harmonic loss, each picture was split into 16 cells
 ($4 \times 4$).
-The implementation of harmonic loss can be found in harmonic\_loss.py.
+The implementation of harmonic loss can be found in [harmonic\_loss.py](harmonic\_loss.py).
 
 ## Pretraining
 In some cases, in order to initialize weights, transformators were for 1 epoch
