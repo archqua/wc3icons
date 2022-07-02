@@ -62,7 +62,7 @@ and can be found in [dense\_pix.py](dense\_pix.py).
 <figure>
 
 <figcaption align="center">
-<b>roughly dense architecture</b>
+<b>roughly dense architecture (density$=4$)</b>
 </figcaption>
 <img src="dense_architecture.png" title="dense architecture"/>
 
@@ -172,17 +172,6 @@ The following pictures were used for testing:
 
 
 # Results
-![](pics/wc3_all/BTN3M1.png)
-![](pics/wc3_all/BTN3M2.png)
-![](pics/wc3_all/BTN3M3.png)
-![](pics/wc3_all/BTNAbomination.png)
-![](pics/wc3_all/BTNAcolyte.png)
-![](pics/wc3_all/BTNAcorn.png)
-![](pics/wc3_all/BTNAdvancedCreatureAttack.png)
-![](pics/wc3_all/BTNAdvancedCreatureCarapace.png)
-![](pics/wc3_all/BTNAdvancedDeathTower.png)
-![](pics/wc3_all/BTNAdvancedEnergyTower.png)
-
 TODO
 
 
