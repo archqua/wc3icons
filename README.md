@@ -46,7 +46,7 @@ TODO links to archives.
 # Models
 Two models were tested. One is
 [pix2pix-like](https://arxiv.org/abs/1611.07004) and can be found
-in `pix.py`, the other one mixes pix2pix with
+in [pix.py](pix.py), the other one mixes pix2pix with
 [dense-net](https://arxiv.org/abs/1608.06993v5)
 and can be found in dense\_pix.py.
 
