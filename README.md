@@ -18,6 +18,13 @@ turn any picture into Warcraft III icon.
 
 [Results](#Results)
 - [Identity](#Identity)
+- [Simple](#Simple)
+- [Cycle](#Cycle)
+- [Harmonic](#Harmonic)
+
+[Usage](#Usage)
+
+[Conclusion](#Conclusion)
 
 
 
