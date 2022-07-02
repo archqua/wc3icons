@@ -3,6 +3,8 @@ This repository is final project for 2022 spring DLS season.
 The idea is to train generative adversarial network to
 turn any picture into Warcraft III icon.
 
+
+
 # Data
 Most of the icons to train on are taken from here(TODO insert link).
 These are not actual wc3 icons -- these are adjusted World of Warcraft icons.
@@ -31,18 +33,25 @@ Datasets were only used partially, there are
 5272 of animals and finally 3143 of faces.
 Which is 26973 photos overall.
 
+
+
 # Preprocessing
 Each non-icon was cropped, resized to $56 \times 56$ and shadowed at the edges.
 TODO links to archives.
+
+
 
 # Models
 Two models were tested. One is pix2pix-like(TODO insert link) and can be found
 in pix.py, the other one mixes pix2pix with dense-net(TODO insert link)
 and can be found in dense\_pix.py.
 
+
+
 # Training
 There are three train loops, all can be found in train\_util.py.
 Loss functions were chosen to be MSE, rather than BCE.
+
 
 ## Simple train loop
 First one is simple train loop:
@@ -51,12 +60,14 @@ First one is simple train loop:
 3. make transformator generate icons from photos
 4. train transformator on real icons and fakes
 
+
 ## Cycle train loop
 Is inspired by CycleGAN(TODO insert link).
 
 Train forward and backward transformator and discriminator
 as in simple train loop with addition to cycle consistency loss.
 Cycle consistency loss is MSE.
+
 
 ## Harmonic train loop
 Is inspired by HarmonicGAN(TODO insert link).
@@ -84,7 +95,32 @@ betas were chosen to be $(TODO)$.
 ## GAN trickery
 Labels (real and fake) were flipped (which is seemingly useless in case of
 MSE loss, but MSE loss is later addition, so label flip is kind of legacy).
+
 Labels were sampled from uniform distributions
 $\mathcal{U}\left(0, 0.15\right)$ and $\mathcal{U}\left(0.85, 1\right)$.
 
+When training discriminator, transformator weights were randomly chosen
+from last 7 epochs.
+
+When transformator loss exceeded $0.8$, it was given extra iterations
+(not more than 3) to train.
+
+
+
+# Test
+The following pictures were used for testing:
+()[illustration/test\_orig/busya.jpg]
+()[illustration/test\_orig/floppa.jpg]
+()[illustration/test\_orig/ginger.jpg]
+()[illustration/test\_orig/horny.jpg]
+()[illustration/test\_orig/ka\_52.jpg]
+()[illustration/test\_orig/ll.jpg]
+()[illustration/test\_orig/mike\_wazowski.jpg]
+()[illustration/test\_orig/pig.jpg]
+()[illustration/test\_orig/sigma.jpg]
+()[illustration/test\_orig/triplechad.jpg]
+
+
+# Results
+TODO
 
