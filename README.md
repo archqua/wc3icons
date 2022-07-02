@@ -1,7 +1,7 @@
 # wc3icons
 This repository is final project for 2022 spring DLS season.
 The idea is to train generative adversarial network to
-turn any picture into Warcraft III icon.
+turn any picture into a Warcraft III icon.
 
 
 
@@ -106,7 +106,7 @@ simple convolutions to mitigate regular grid-like artifacts.
 There are three train loops, all can be found in [train\_util.py](train\_util.py).
 Loss functions were chosen to be MSE, rather than BCE.
 
-If you wish to know much entropy was generated during training
+If you wish to know how much entropy was generated during training
 (number of epochs, training time) or how to use
 [util.py](util.py) and [train\_util.py](train\_util.py)
 to train models, you can check out
@@ -134,7 +134,7 @@ Is inspired by [HarmonicGAN](https://arxiv.org/abs/1902.09727).
 
 Train forward and backward transformator and discriminator
 as in simple train loop with addition to harmonic loss.
-Unlike the original, cycle consistency loss is ignored here.
+Unlike in the original, cycle consistency loss is ignored here.
 The intention here is to preserve trained model from
 "willing" to preserve pictures unchanged.
 To calculate harmonic loss, each picture was split into 16 cells
@@ -699,7 +699,7 @@ Pytorch, torchvision, pillow.
 
 # Conclusion
 The goal of creating nice wc3 icons from photos is not achieved.
-Sometimes the result kinda looks somewhat good, but this is probably
+Sometimes results kinda looks somewhat good, but this is probably
 due to the fact that ruining image a bit sometimes makes it look
 more like wc3 icon.
 
