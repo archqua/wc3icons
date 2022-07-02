@@ -186,6 +186,16 @@ The following pictures were used for testing:
 <img src="illustration/harmonic/dense/pretrain/eval/ka_52.png" width="64px"/>
 <img src="illustration/harmonic/dense/pretrain/eval/pig.png" width="64px"/>
 <img src="illustration/harmonic/dense/pretrain/eval/floppa.png" width="64px"/>
+![](illustration/harmonic/dense/pretrain/eval/mike_wazowski.png)
+![](illustration/harmonic/dense/pretrain/eval/horny.png)
+![](illustration/harmonic/dense/pretrain/eval/busya.png)
+![](illustration/harmonic/dense/pretrain/eval/ll.png)
+![](illustration/harmonic/dense/pretrain/eval/triplechad.png)
+![](illustration/harmonic/dense/pretrain/eval/sigma.png)
+![](illustration/harmonic/dense/pretrain/eval/ginger.png)
+![](illustration/harmonic/dense/pretrain/eval/ka_52.png)
+![](illustration/harmonic/dense/pretrain/eval/pig.png)
+![](illustration/harmonic/dense/pretrain/eval/floppa.png)
 
 TODO
 
