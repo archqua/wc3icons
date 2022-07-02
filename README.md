@@ -202,66 +202,66 @@ This is for comparisson.
 ##### 50% dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/simple/pix/pretrain/train/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/train/horny/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/train/busya/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/train/ll/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/train/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/train/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/train/horny.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/train/busya.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/train/ll.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/train/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/simple/pix/pretrain/train/sigma/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/train/ginger/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/train/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/train/pig/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/train/floppa/.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/train/sigma.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/train/ginger.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/train/ka_52.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/train/pig.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 ##### No dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/simple/pix/pretrain/eval/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/eval/horny/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/eval/busya/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/eval/ll/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/eval/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/eval/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/eval/horny.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/eval/busya.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/eval/ll.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/eval/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/simple/pix/pretrain/eval/sigma/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/eval/ginger/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/eval/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/eval/pig/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/pretrain/eval/floppa/.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/eval/sigma.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/eval/ginger.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/eval/ka_52.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/eval/pig.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 #### No pretrain
 ##### 50% dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/simple/pix/nopretrain/train/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/train/horny/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/train/busya/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/train/ll/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/train/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/train/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/train/horny.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/train/busya.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/train/ll.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/train/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/simple/pix/nopretrain/train/sigma/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/train/ginger/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/train/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/train/pig/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/train/floppa/.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/train/sigma.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/train/ginger.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/train/ka_52.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/train/pig.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 ##### No dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/simple/pix/nopretrain/eval/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/eval/horny/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/eval/busya/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/eval/ll/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/eval/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/eval/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/eval/horny.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/eval/busya.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/eval/ll.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/eval/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/simple/pix/nopretrain/eval/sigma/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/eval/ginger/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/eval/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/eval/pig/.png" width="128px"/></td>
-<td><img src="illustration/simple/pix/nopretrain/eval/floppa/.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/eval/sigma.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/eval/ginger.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/eval/ka_52.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/eval/pig.png" width="128px"/></td>
+<td><img src="illustration/simple/pix/nopretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 
@@ -270,66 +270,66 @@ This is for comparisson.
 ##### 50% dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/simple/dense/pretrain/train/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/train/horny/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/train/busya/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/train/ll/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/train/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/train/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/train/horny.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/train/busya.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/train/ll.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/train/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/simple/dense/pretrain/train/sigma/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/train/ginger/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/train/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/train/pig/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/train/floppa/.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/train/sigma.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/train/ginger.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/train/ka_52.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/train/pig.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 ##### No dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/simple/dense/pretrain/eval/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/eval/horny/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/eval/busya/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/eval/ll/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/eval/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/eval/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/eval/horny.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/eval/busya.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/eval/ll.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/eval/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/simple/dense/pretrain/eval/sigma/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/eval/ginger/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/eval/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/eval/pig/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/pretrain/eval/floppa/.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/eval/sigma.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/eval/ginger.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/eval/ka_52.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/eval/pig.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 #### No pretrain
 ##### 50% dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/simple/dense/nopretrain/train/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/train/horny/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/train/busya/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/train/ll/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/train/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/train/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/train/horny.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/train/busya.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/train/ll.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/train/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/simple/dense/nopretrain/train/sigma/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/train/ginger/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/train/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/train/pig/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/train/floppa/.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/train/sigma.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/train/ginger.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/train/ka_52.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/train/pig.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 ##### No dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/simple/dense/nopretrain/eval/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/eval/horny/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/eval/busya/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/eval/ll/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/eval/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/eval/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/eval/horny.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/eval/busya.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/eval/ll.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/eval/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/simple/dense/nopretrain/eval/sigma/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/eval/ginger/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/eval/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/eval/pig/.png" width="128px"/></td>
-<td><img src="illustration/simple/dense/nopretrain/eval/floppa/.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/eval/sigma.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/eval/ginger.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/eval/ka_52.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/eval/pig.png" width="128px"/></td>
+<td><img src="illustration/simple/dense/nopretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 
@@ -341,66 +341,66 @@ This is for comparisson.
 ##### 50% dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/cycle/pix/pretrain/train/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/train/horny/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/train/busya/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/train/ll/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/train/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/train/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/train/horny.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/train/busya.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/train/ll.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/train/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/cycle/pix/pretrain/train/sigma/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/train/ginger/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/train/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/train/pig/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/train/floppa/.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/train/sigma.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/train/ginger.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/train/ka_52.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/train/pig.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 ##### No dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/cycle/pix/pretrain/eval/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/eval/horny/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/eval/busya/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/eval/ll/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/eval/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/eval/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/eval/horny.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/eval/busya.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/eval/ll.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/eval/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/cycle/pix/pretrain/eval/sigma/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/eval/ginger/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/eval/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/eval/pig/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/pretrain/eval/floppa/.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/eval/sigma.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/eval/ginger.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/eval/ka_52.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/eval/pig.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 #### No pretrain
 ##### 50% dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/cycle/pix/nopretrain/train/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/train/horny/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/train/busya/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/train/ll/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/train/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/train/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/train/horny.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/train/busya.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/train/ll.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/train/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/cycle/pix/nopretrain/train/sigma/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/train/ginger/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/train/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/train/pig/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/train/floppa/.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/train/sigma.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/train/ginger.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/train/ka_52.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/train/pig.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 ##### No dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/cycle/pix/nopretrain/eval/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/eval/horny/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/eval/busya/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/eval/ll/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/eval/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/eval/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/eval/horny.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/eval/busya.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/eval/ll.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/eval/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/cycle/pix/nopretrain/eval/sigma/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/eval/ginger/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/eval/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/eval/pig/.png" width="128px"/></td>
-<td><img src="illustration/cycle/pix/nopretrain/eval/floppa/.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/eval/sigma.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/eval/ginger.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/eval/ka_52.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/eval/pig.png" width="128px"/></td>
+<td><img src="illustration/cycle/pix/nopretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 
@@ -409,66 +409,66 @@ This is for comparisson.
 ##### 50% dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/cycle/dense/pretrain/train/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/train/horny/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/train/busya/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/train/ll/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/train/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/train/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/train/horny.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/train/busya.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/train/ll.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/train/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/cycle/dense/pretrain/train/sigma/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/train/ginger/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/train/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/train/pig/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/train/floppa/.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/train/sigma.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/train/ginger.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/train/ka_52.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/train/pig.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 ##### No dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/cycle/dense/pretrain/eval/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/eval/horny/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/eval/busya/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/eval/ll/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/eval/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/eval/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/eval/horny.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/eval/busya.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/eval/ll.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/eval/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/cycle/dense/pretrain/eval/sigma/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/eval/ginger/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/eval/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/eval/pig/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/pretrain/eval/floppa/.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/eval/sigma.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/eval/ginger.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/eval/ka_52.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/eval/pig.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 #### No pretrain
 ##### 50% dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/cycle/dense/nopretrain/train/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/train/horny/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/train/busya/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/train/ll/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/train/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/train/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/train/horny.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/train/busya.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/train/ll.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/train/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/cycle/dense/nopretrain/train/sigma/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/train/ginger/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/train/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/train/pig/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/train/floppa/.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/train/sigma.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/train/ginger.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/train/ka_52.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/train/pig.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 ##### No dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/cycle/dense/nopretrain/eval/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/eval/horny/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/eval/busya/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/eval/ll/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/eval/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/eval/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/eval/horny.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/eval/busya.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/eval/ll.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/eval/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/cycle/dense/nopretrain/eval/sigma/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/eval/ginger/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/eval/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/eval/pig/.png" width="128px"/></td>
-<td><img src="illustration/cycle/dense/nopretrain/eval/floppa/.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/eval/sigma.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/eval/ginger.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/eval/ka_52.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/eval/pig.png" width="128px"/></td>
+<td><img src="illustration/cycle/dense/nopretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 
@@ -480,66 +480,66 @@ This is for comparisson.
 ##### 50% dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/harmonic/pix/pretrain/train/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/train/horny/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/train/busya/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/train/ll/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/train/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/train/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/train/horny.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/train/busya.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/train/ll.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/train/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/harmonic/pix/pretrain/train/sigma/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/train/ginger/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/train/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/train/pig/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/train/floppa/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/train/sigma.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/train/ginger.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/train/ka_52.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/train/pig.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 ##### No dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/harmonic/pix/pretrain/eval/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/eval/horny/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/eval/busya/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/eval/ll/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/eval/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/eval/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/eval/horny.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/eval/busya.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/eval/ll.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/eval/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/harmonic/pix/pretrain/eval/sigma/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/eval/ginger/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/eval/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/eval/pig/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/pretrain/eval/floppa/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/eval/sigma.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/eval/ginger.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/eval/ka_52.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/eval/pig.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 #### No pretrain
 ##### 50% dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/harmonic/pix/nopretrain/train/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/train/horny/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/train/busya/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/train/ll/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/train/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/train/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/train/horny.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/train/busya.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/train/ll.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/train/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/harmonic/pix/nopretrain/train/sigma/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/train/ginger/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/train/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/train/pig/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/train/floppa/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/train/sigma.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/train/ginger.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/train/ka_52.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/train/pig.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 ##### No dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/harmonic/pix/nopretrain/eval/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/eval/horny/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/eval/busya/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/eval/ll/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/eval/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/eval/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/eval/horny.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/eval/busya.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/eval/ll.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/eval/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/harmonic/pix/nopretrain/eval/sigma/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/eval/ginger/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/eval/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/eval/pig/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/pix/nopretrain/eval/floppa/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/eval/sigma.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/eval/ginger.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/eval/ka_52.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/eval/pig.png" width="128px"/></td>
+<td><img src="illustration/harmonic/pix/nopretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 
@@ -548,66 +548,66 @@ This is for comparisson.
 ##### 50% dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/harmonic/dense/pretrain/train/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/train/horny/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/train/busya/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/train/ll/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/train/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/train/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/train/horny.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/train/busya.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/train/ll.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/train/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/harmonic/dense/pretrain/train/sigma/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/train/ginger/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/train/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/train/pig/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/train/floppa/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/train/sigma.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/train/ginger.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/train/ka_52.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/train/pig.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 ##### No dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/harmonic/dense/pretrain/eval/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/eval/horny/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/eval/busya/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/eval/ll/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/eval/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/horny.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/busya.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/ll.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/harmonic/dense/pretrain/eval/sigma/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/eval/ginger/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/eval/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/eval/pig/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/pretrain/eval/floppa/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/sigma.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/ginger.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/ka_52.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/pig.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 #### No pretrain
 ##### 50% dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/harmonic/dense/nopretrain/train/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/train/horny/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/train/busya/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/train/ll/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/train/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/train/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/train/horny.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/train/busya.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/train/ll.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/train/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/harmonic/dense/nopretrain/train/sigma/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/train/ginger/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/train/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/train/pig/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/train/floppa/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/train/sigma.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/train/ginger.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/train/ka_52.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/train/pig.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/train/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 ##### No dropout
 <table><tbody>
 <tr>
-<td><img src="illustration/harmonic/dense/nopretrain/eval/mike_wazowski/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/eval/horny/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/eval/busya/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/eval/ll/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/eval/triplechad/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/eval/mike_wazowski.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/eval/horny.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/eval/busya.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/eval/ll.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/eval/triplechad.png" width="128px"/></td>
 </tr><tr>
-<td><img src="illustration/harmonic/dense/nopretrain/eval/sigma/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/eval/ginger/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/eval/ka_52/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/eval/pig/.png" width="128px"/></td>
-<td><img src="illustration/harmonic/dense/nopretrain/eval/floppa/.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/eval/sigma.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/eval/ginger.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/eval/ka_52.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/eval/pig.png" width="128px"/></td>
+<td><img src="illustration/harmonic/dense/nopretrain/eval/floppa.png" width="128px"/></td>
 </tr>
 </tbody></table>
 
