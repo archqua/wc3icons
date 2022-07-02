@@ -176,17 +176,20 @@ The following pictures were used for testing:
 
 
 # Results
-|\
-<img src="illustration/harmonic/dense/pretrain/eval/mike_wazowski.png" width="64px"/>|\
-<img src="illustration/harmonic/dense/pretrain/eval/horny.png" width="64px"/>|\
-<img src="illustration/harmonic/dense/pretrain/eval/busya.png" width="64px"/>|\
-<img src="illustration/harmonic/dense/pretrain/eval/ll.png" width="64px"/>|\
-<img src="illustration/harmonic/dense/pretrain/eval/triplechad.png" width="64px"/>|\
-<img src="illustration/harmonic/dense/pretrain/eval/sigma.png" width="64px"/>|\
-<img src="illustration/harmonic/dense/pretrain/eval/ginger.png" width="64px"/>|\
-<img src="illustration/harmonic/dense/pretrain/eval/ka_52.png" width="64px"/>|\
-<img src="illustration/harmonic/dense/pretrain/eval/pig.png" width="64px"/>|\
-<img src="illustration/harmonic/dense/pretrain/eval/floppa.png" width="64px"/>|
+<table><tbody>
+<tr>
+<td><img src="illustration/harmonic/dense/pretrain/eval/mike_wazowski.png" width="64px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/horny.png" width="64px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/busya.png" width="64px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/ll.png" width="64px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/triplechad.png" width="64px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/sigma.png" width="64px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/ginger.png" width="64px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/ka_52.png" width="64px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/pig.png" width="64px"/></td>
+<td><img src="illustration/harmonic/dense/pretrain/eval/floppa.png" width="64px"/></td>
+</tr>
+</tbody></table>
 
 
 TODO
