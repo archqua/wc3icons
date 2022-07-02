@@ -50,9 +50,23 @@ in [pix.py](pix.py), the other one mixes pix2pix with
 [dense-net](https://arxiv.org/abs/1608.06993v5)
 and can be found in [dense\_pix.py](dense\_pix.py).
 
+<figure>
+
 <img src="pix_architecture.png" title="pix architecture"/>
+<figcaption align="center">
+pix arghitecture
+</figcaption>
+
+</figure>
+
+<figure>
 
 <img src="dense_architecture.png" title="dense architecture"/>
+<figcaption align="center">
+dense arghitecture
+</figcaption>
+
+</figure>
 
 
 
