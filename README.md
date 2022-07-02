@@ -16,7 +16,7 @@ unnecessary, but it doesn't seem to be a huge loss anyway.
 
 There are 22529 of adjusted WoW icons and 1007 of wc3 icons, 23536 overall.
 
-Non-wc3 pictures are taken from several datasets(TODO insert links):
+Non-wc3 pictures are taken from several datasets:
 1. [fruits](https://www.kaggle.com/datasets/moltean/fruits)
 2. [dogs and cats](https://www.kaggle.com/competitions/dogs-vs-cats/data?select=train.zip)
 3. [monkeys](https://www.kaggle.com/datasets/slothkong/10-monkey-species?select=training)
@@ -62,11 +62,11 @@ First one is simple train loop:
 1. make transformator generate icons from photos
 2. train discriminator on real icons and fakes
 3. make transformator generate icons from photos
-4. train transformator on real icons and fakes
+4. train transformator
 
 
 ## Cycle train loop
-Is inspired by CycleGAN(TODO insert link).
+Is inspired by [CycleGAN](https://arxiv.org/abs/1703.10593).
 
 Train forward and backward transformator and discriminator
 as in simple train loop with addition to cycle consistency loss.
@@ -74,7 +74,7 @@ Cycle consistency loss is MSE.
 
 
 ## Harmonic train loop
-Is inspired by HarmonicGAN(TODO insert link).
+Is inspired by [HarmonicGAN](https://arxiv.org/abs/1902.09727).
 
 Train forward and backward transformator and discriminator
 as in simple train loop with addition to harmonic loss.
@@ -91,9 +91,10 @@ In some cases, in order to initialize weights, transformators were for 1 epoch
 
 
 ## Parameters
-Inspired by DCGAN(TODO insert link), learning rates were chosen to be
+Inspired by [DCGAN](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html),
+learning rates were chosen to be
 $10^{-4}$ for transformators and $10^{-5}$ for discriminators,
-betas were chosen to be $(TODO)$.
+betas were chosen to be $(0.5,\,0.999)$.
 
 
 ## GAN trickery
