@@ -109,16 +109,16 @@ When transformator loss exceeded $0.8$, it was given extra iterations
 
 # Test
 The following pictures were used for testing:
-()[illustration/test\_orig/busya.jpg]
-()[illustration/test\_orig/floppa.jpg]
-()[illustration/test\_orig/ginger.jpg]
-()[illustration/test\_orig/horny.jpg]
-()[illustration/test\_orig/ka\_52.jpg]
-()[illustration/test\_orig/ll.jpg]
-()[illustration/test\_orig/mike\_wazowski.jpg]
-()[illustration/test\_orig/pig.jpg]
-()[illustration/test\_orig/sigma.jpg]
-()[illustration/test\_orig/triplechad.jpg]
+[](illustration/test\_orig/busya.jpg)
+[](illustration/test\_orig/floppa.jpg)
+[](illustration/test\_orig/ginger.jpg)
+[](illustration/test\_orig/horny.jpg)
+[](illustration/test\_orig/ka\_52.jpg)
+[](illustration/test\_orig/ll.jpg)
+[](illustration/test\_orig/mike\_wazowski.jpg)
+[](illustration/test\_orig/pig.jpg)
+[](illustration/test\_orig/sigma.jpg)
+[](illustration/test\_orig/triplechad.jpg)
 
 
 # Results
