@@ -109,35 +109,35 @@ When transformator loss exceeded $0.8$, it was given extra iterations
 
 # Test
 The following pictures were used for testing:
-![](illustration/test\_orig/busya.jpg){ width: 1000px; }
+<img src="illustration/test\_orig/busya.jpg){ width: 1000px; }" width="1000px"/>
 
 [link](https://i.pinimg.com/736x/90/0a/b7/900ab76cf0c3b2fe8683e0e2039beb00.jpg)
 
-![](illustration/test\_orig/floppa.jpg)
+<img src="illustration/test\_orig/floppa.jpg)" width="1000px"/>
 
 [link](https://www.pinterest.com/pin/strategic-covering-women-model-redhead-freckles-face-curly-hair--483714816208425154/)
 
-![](illustration/test\_orig/ginger.jpg){ width: 1000px; }
+<img src="illustration/test\_orig/ginger.jpg){ width: 1000px; }" width="1000px"/>
 
-![](illustration/test\_orig/horny.jpg){ width: 1000px; }
+<img src="illustration/test\_orig/horny.jpg){ width: 1000px; }" width="1000px"/>
 
 [link](https://www.wallpaperbetter.com/wallpaper/810/134/410/ka-52-helicopter-russian-1080P-wallpaper.jpg)
 
-![](illustration/test\_orig/ka\_52.jpg){ width: 1000px; }
+<img src="illustration/test\_orig/ka\_52.jpg){ width: 1000px; }" width="1000px"/>
 
-![](illustration/test\_orig/ll.jpg){ width: 1000px; }
+<img src="illustration/test\_orig/ll.jpg){ width: 1000px; }" width="1000px"/>
 
 [link](https://i.pinimg.com/736x/df/ef/52/dfef52bc718c0e35ded5ad5eb80da4bb.jpg)
 
-![](illustration/test\_orig/mike\_wazowski.jpg){ width: 1000px; }
+<img src="illustration/test\_orig/mike\_wazowski.jpg){ width: 1000px; }" width="1000px"/>
 
-![](illustration/test\_orig/pig.jpg){ width: 1000px; }
+<img src="illustration/test\_orig/pig.jpg){ width: 1000px; }" width="1000px"/>
 
-![](illustration/test\_orig/sigma.jpg){ width: 1000px; }
+<img src="illustration/test\_orig/sigma.jpg){ width: 1000px; }" width="1000px"/>
 
 [link](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/68ce3fc6-7790-4875-986f-03af22d56395_640x640.jpeg)
 
-![](illustration/test\_orig/triplechad.jpg){ width: 1000px; }
+<img src="illustration/test\_orig/triplechad.jpg){ width: 1000px; }" width="1000px"/>
 
 
 # Results
