@@ -100,6 +100,10 @@ it equals 3, in cycle and harmonic train loops it's 2.
 On last two layers upconvolutions are replaced with bilinear upsampling with
 simple convolutions to mitigate regular grid-like artifacts.
 
+To add randomness to output and make it possible to create several
+different icons from one photo,
+random vectors are appended to $N \times 1 \times 1$ feature maps.
+
 
 
 # Training
