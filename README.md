@@ -703,7 +703,7 @@ Pytorch, torchvision, pillow.
 
 # Conclusion
 The goal of creating nice wc3 icons from photos is not achieved.
-Sometimes results kinda looks somewhat good, but this is probably
+Sometimes results kinda look somewhat good, but this is probably
 due to the fact that ruining image a bit sometimes makes it look
 more like wc3 icon.
 
